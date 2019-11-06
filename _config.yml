@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Cesar Hernandez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/me.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Boston, MA"
   email            :
